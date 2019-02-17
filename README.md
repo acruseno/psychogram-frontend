@@ -1,5 +1,4 @@
 # psychogram-frontend
-Frontend de psychogram
+Frontend de la aplicacion desarrollada con Javascript mediante la utilizacion de diversas librerias.
 
-Los contenidos de assets pueden ser reemplazados
-La carpeta public se genera automaticamente a traves de la tarea de "build" en Gulp
+La carpeta public se genera automaticamente a traves de la tarea de "build" en Gulp.
